@@ -262,7 +262,7 @@ main{
 	content:'DOM';
 	position:absolute;
 	top:60px;
-	letter-spacing:2px;
+	letter-spacing:px;
 	left:-8px;
 	z-index:1;
 	font-size:17px;
